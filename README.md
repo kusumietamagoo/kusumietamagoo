@@ -25,9 +25,9 @@ I am a passionate and dedicated individual with strong skills in programming lan
       </td>
       <!-- GitHub Stats -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kusumieta&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github" width="450px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=kusumietamagoo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github" width="450px"/>
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusumieta&theme=dracula&hide_border=false" width="450px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusumietamagoo&theme=dracula&hide_border=false" width="450px"/>
       </td>
     </tr>
   </table>
