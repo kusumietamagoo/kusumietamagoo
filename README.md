@@ -22,7 +22,10 @@ I am a passionate and dedicated individual with strong skills in programming lan
       <!-- LeetCode Streak -->
       <td>
         <img src="https://leetcode-badge-showcase.vercel.app/api?username=kusumieta&theme=dracula&animated=true" alt="LeetCode Badges" width="325px"/>
-         <img src="https://leetcode-stats-six.vercel.app/api?username=kusumieta&theme=dark" alt="LeetCode Stats" width="450px"/>
+         <p align="left">
+  <img src="https://leetcard.jacoblin.cool/kusumieta?theme=dark&ext=heatmap" alt="LeetCode Stats" width="450px"/>
+</p>
+
       </td>
       <!-- GitHub Stats -->
       <td>
