@@ -41,4 +41,11 @@ I am a passionate and dedicated individual with strong skills in programming lan
 
 <a href="https://github.com/kusumietamagoo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusumietamagoo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### CURRENTLY LEARNING 
+I am currently diving deeper into the following topics:
+- Advanced AI/ML algorithms for real-time data analysis
+- Cloud infrastructure and containerization with Docker
+- React Native for cross-platform mobile development
+
+
 
