@@ -31,12 +31,30 @@ Cloud & DevOps
   </span>
 </p>
 
-
-
 AI/ML & Frameworks
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="36" height="36" alt="Scikit-Learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib"/> </p>
+<p align="left">
+  <span style="display: inline-flex; gap: 10px; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-Learn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" />
+  </span>
+</p>
 Productivity & Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter Notebook"/> <img src="https://img.icons8.com/color/48/tableau-software.png" width="36" height="36" alt="Tableau"/> <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" width="36" height="36" alt="Power BI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/> </p>
+<p align="left">
+  <span style="display: inline-flex; gap: 10px; align-items: center;">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter Notebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" />
+    <img src="https://img.icons8.com/color/48/tableau-software.png" width="36" height="36" alt="Tableau" />
+  </span>
+</p>
+
 ### SOCIALS
 
 <p align="left">
