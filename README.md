@@ -8,7 +8,7 @@ I am a passionate and dedicated individual with strong skills in programming lan
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kusumieta.magoo@gmail.com](mailto:kusumieta.magoo@gmail.com)
-* 🖥️  You can visit me at [https://kusumieta.netlify.app/](https://kusumieta.netlify.app/)
+* 🖥️  You can visit me at [LinkedIn](https://www.linkedin.com/in/kusumieta-magoo-b53a62282/)
 * 🌐 You can view my portfolio at [Portfolio-Website](https://kusumieta.netlify.app/)
 * 📄 Check out my [Resume](https://github.com/kusumietamagoo/Resume-) <!-- Replace <REPO_NAME> with your repository name -->
 
