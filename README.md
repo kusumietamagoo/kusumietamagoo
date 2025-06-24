@@ -96,3 +96,4 @@ I am currently diving deeper into the following topics:
 - Advanced AI/ML algorithms for real-time data analysis
 - Cloud infrastructure and containerization with Docker
 - React Native for cross-platform mobile development
+- In Depth understanging of AWS and Microsoft Azure
