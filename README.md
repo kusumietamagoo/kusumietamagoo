@@ -4,7 +4,9 @@ Hi 👋 My name is Kusumieta Magoo
 Software Engineer , Web Developer , AI/ML enthusiast.
 -----------------------------------
 
-I am a passionate and dedicated individual with strong skills in programming languages such as C++, Java, and Python, which I have applied in various academic and personal projects, including web development and data analysis. My experience includes developing an automated tool for data visualization and creating an auto translation and transcription project using Python and Google's APIs. I am also currently working on an AI/ML project for deepfake image and forged signature detection.
+I am a passionate and dedicated individual with expertise in programming languages such as C++, Java, Python and JavaScript with a strong foundation in software development, artificial intelligence, and machine learning. I thrive on building scalable, real-world solutions that blend innovation with functionality. Whether it’s writing efficient code, architecting intelligent systems, or exploring the cutting edge of technology, I approach every challenge with curiosity and a problem-solving mindset.
+Proficient in modern programming languages, cloud services, and AI frameworks, I’m committed to continuous learning and staying ahead in this rapidly evolving tech landscape. I aspire to contribute meaningfully to impactful products and be part of teams that shape the future of technology.
+  
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kusumieta.magoo@gmail.com](mailto:kusumieta.magoo@gmail.com)
