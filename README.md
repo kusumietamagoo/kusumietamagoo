@@ -4,10 +4,8 @@ Hi 👋 My name is Kusumieta Magoo
 Software Engineer , Web Developer , AI/ML enthusiast.
 -----------------------------------
 
-I am a passionate and dedicated individual with expertise in programming languages such as C++, Java, Python and JavaScript with a strong foundation in software development, artificial intelligence, and machine learning. I thrive on building scalable, real-world solutions that blend innovation with functionality. Whether it’s writing efficient code, architecting intelligent systems, or exploring the cutting edge of technology, I approach every challenge with curiosity and a problem-solving mindset.
-Proficient in modern programming languages, cloud services, and AI frameworks, I’m committed to continuous learning and staying ahead in this rapidly evolving tech landscape. I aspire to contribute meaningfully to impactful products and be part of teams that shape the future of technology.
-  
-
+A passionate and dedicated individual with expertise in programming languages such as C++, Java, Python and JavaScript with a strong foundation in software development, artificial intelligence, and machine learning. I thrive on building scalable, real-world solutions that blend innovation with functionality. Whether it’s writing efficient code, architecting intelligent systems, or exploring the cutting edge of technology, I approach every challenge with curiosity and a problem-solving mindset.
+Proficient in modern programming languages, cloud services, and AI frameworks,SQL and Web Development. Committed to continuous learning and staying ahead in this rapidly evolving tech landscape. I aspire to contribute meaningfully to impactful products and be part of teams that shape the future of technology.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kusumieta.magoo@gmail.com](mailto:kusumieta.magoo@gmail.com)
 * 🖥️  You can visit me at [LinkedIn](https://www.linkedin.com/in/kusumieta-magoo-b53a62282/)
