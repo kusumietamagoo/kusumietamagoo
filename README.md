@@ -10,7 +10,7 @@ Proficient in modern programming languages, cloud services, and AI frameworks,SQ
 * ✉️  You can contact me at [kusumieta.magoo@gmail.com](mailto:kusumieta.magoo@gmail.com)
 * 🖥️  You can visit me at [LinkedIn](https://www.linkedin.com/in/kusumieta-magoo-b53a62282/)
 * 🌐 You can view my portfolio at [Portfolio-Website](https://kusumieta.netlify.app/)
-* 📄 Check out my [Resume](https://github.com/kusumietamagoo/Resume-) <!-- Replace <REPO_NAME> with your repository name -->
+ <!-- * 📄 Check out my [Resume](https://github.com/kusumietamagoo/Resume-)   -->
 
 ### SKILLS
 Programming Languages
@@ -23,7 +23,6 @@ Database & Data Tools
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/> <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="36" height="36" alt="SQL Server"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy"/> </p>
 Cloud & DevOps
 <p align="left">
-  <!-- Cloud & DevOps Icons Row -->
   <span style="display: inline-flex; gap: 10px; align-items: center;">
     <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="36" height="36" alt="AWS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
