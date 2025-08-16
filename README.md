@@ -1,7 +1,7 @@
 Hi 👋 My name is Kusumieta Magoo
 ================================
 
-Software Engineer , Web Developer , AI/ML enthusiast.
+Software Engineer , Web Developer , AI/ML and Data Science enthusiast.
 -----------------------------------
 
 A passionate and dedicated individual with expertise in programming languages such as C++, Java, Python and JavaScript with a strong foundation in software development, artificial intelligence, and machine learning. I thrive on building scalable, real-world solutions that blend innovation with functionality. Whether it’s writing efficient code, architecting intelligent systems, or exploring the cutting edge of technology, I approach every challenge with curiosity and a problem-solving mindset.
