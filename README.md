@@ -5,11 +5,11 @@ Software Engineer , Web Developer , AI/ML and Data Science enthusiast.
 -----------------------------------
 
 A passionate and dedicated individual with expertise in programming languages such as C++, Java, Python and JavaScript with a strong foundation in software development, artificial intelligence, and machine learning. I thrive on building scalable, real-world solutions that blend innovation with functionality. Whether it’s writing efficient code, architecting intelligent systems, or exploring the cutting edge of technology, I approach every challenge with curiosity and a problem-solving mindset.
-Proficient in modern programming languages, cloud services, and AI frameworks,SQL and Web Development. Committed to continuous learning and staying ahead in this rapidly evolving tech landscape. I aspire to contribute meaningfully to impactful products and be part of teams that shape the future of technology.
+Proficient in modern programming languages, cloud services, and AI frameworks,SQL and Web Development. Committed to continuous learning and staying ahead in this rapidly evolving tech landscape. I aspire to contribute meaningfully to impactful products and be part of teams that shape the future of technology.Fulled by Caffeine ☕  
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [kusumieta.magoo@gmail.com](mailto:kusumieta.magoo@gmail.com)
-* 🖥️  You can visit me at [LinkedIn](https://www.linkedin.com/in/kusumieta-magoo-b53a62282/)
-* 🌐 You can view my portfolio at [Portfolio-Website](https://kusumieta.netlify.app/)
+* 🖥️  You can connect with me at [LinkedIn](https://www.linkedin.com/in/kusumieta-magoo-b53a62282/)
+* 🌐  You can view my portfolio at [Portfolio-Website](https://kusumieta.netlify.app/)
  <!-- * 📄 Check out my [Resume](https://github.com/kusumietamagoo/Resume-)   -->
 
 ### SKILLS
